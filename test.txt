@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9E4B-D09B
+
+ Directory of C:\Users\Local User\Desktop\V
+
+14-06-2019  20:06    <DIR>          .
+14-06-2019  20:06    <DIR>          ..
+12-06-2019  11:35             3,423 NCS_DRAW_ADJUSTMENTS
+14-06-2019  20:06                 0 test.txt
+12-06-2019  11:24             2,756 VSP_TRUNCATE_LOAD_PSA
+               3 File(s)          6,179 bytes
+               2 Dir(s)  279,794,245,632 bytes free
